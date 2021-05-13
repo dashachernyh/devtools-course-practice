@@ -2,9 +2,9 @@
 
 #include "include/Application_vigener.h"
 
+#include <string.h>
 #include <sstream>
 #include <string>
-#include <string.h>
 
 #include "include/Vigener.h"
 
