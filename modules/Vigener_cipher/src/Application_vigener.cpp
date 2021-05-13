@@ -4,6 +4,7 @@
 
 #include <sstream>
 #include <string>
+#include <string.h>
 
 #include "include/Vigener.h"
 
