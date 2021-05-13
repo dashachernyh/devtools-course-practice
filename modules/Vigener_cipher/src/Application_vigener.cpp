@@ -75,9 +75,7 @@ std::string Application::operator()(int argc, const char** argv) {
         stream << "Decrypt = " << str_out;
         break;
     }
-
     message_ = stream.str();
-
     return message_;
 }
 
