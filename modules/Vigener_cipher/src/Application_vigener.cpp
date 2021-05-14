@@ -2,7 +2,7 @@
 
 #include "include/Application_vigener.h"
 
-#include <string.h>
+#include <cstring>
 #include <sstream>
 #include <string>
 
